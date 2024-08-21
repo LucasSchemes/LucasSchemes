@@ -2,7 +2,7 @@
 
 - 🌱 I develop web applications (HTML, CSS and JS) and program also in C++ and Python.
 - ⚡ Now i'm focused on learning and improving my skills, so you can find some practices and projects in my repositories.
-- 👜 Here in my GitHub, you'll find a variety of repositories containing personal projects, university work, and studies that I'm excited to share.
+- 👜 Personal projects, university work, and studies that I'll like to share.
 
 
 How to contact me:
