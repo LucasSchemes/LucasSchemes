@@ -1,8 +1,8 @@
 ## Welcome to my profile! 👋
 
-- 🌱 I develop web applications (HTML, CSS and JS) and program also in C++ and Python.
-- ⚡ Now i'm focused on learning and improving my skills, so you can find some practices and projects in my repositories.
-- 👜 Personal projects, university work, and studies that I'll like to share.
+- 🌱 I'm learning and working with computer vision.
+- ⚡ I'm focused on improving my skills, so you can find some practices and projects in my repositories.
+- 👜 Personal projects, university work and studies that I'll like to share.
 
 
 How to contact me:
