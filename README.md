@@ -8,4 +8,4 @@
 How to contact me:
 
 - 📧Email: lucas.schemes04@gmail.com
--  🔗Linkedin: https://www.linkedin.com/in/lucas-schemes-55a6692b1/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/lucas-schemes-55a6692b1/))
